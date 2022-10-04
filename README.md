@@ -1,7 +1,7 @@
 # GoldDust-Defi-v0.1
 This repo is dedicated to making minimal repos of existing Defi primatives.
 
-| :exclamation:  ** WARNING None of the contracts are audited!  |
+| :exclamation:   WARNING The contracts are in the process of audit!  |
 |-----------------------------------------|
 
 ### Completed (but unreviewed) minimal contracts:
