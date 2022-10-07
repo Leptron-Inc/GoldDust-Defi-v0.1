@@ -14,7 +14,7 @@
 // But maybe a better name would be EndoDrCCoin (EndoDocCoin?), or maybe like "RobertsCoin" or something after the Sam Roberts paper...
 // We should fix the name as a community
 
-pragma solidity ^0.8.7;
+pragma solidity ^0.8.0;
 
 contract AlgorithmicStableCoin {
 
